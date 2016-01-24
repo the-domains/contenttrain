@@ -2,6 +2,7 @@ name: Contenttrain
 favicon: null
 layout_spectrum: 0.5146
 typography_spectrum: 0.75479
+title: The contentroom of Cypres
 cta:
   domain: null
   bucket: null
