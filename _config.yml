@@ -1,0 +1,28 @@
+name: Contenttrain
+favicon: null
+layout_spectrum: 0.8942312779836357
+typography_spectrum: 0.22665373515337706
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6200219269376248
+  lightness: 0.5127903022803366
+  saturation: 0.3272659806534648
+  rhythmicContrast: 0.07815131242386997
+purpose: []
