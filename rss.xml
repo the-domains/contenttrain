@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Contenttrain]]></title>
+        <description><![CDATA[Contenttrain]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Jan 2016 08:14:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[De ideale lengte voor e-mail-onderwerpregels bestaat niet]]></title>
+            <description><![CDATA[<article><h1>De ideale lengte voor e-mail-onderwerpregels bestaat niet</h1><p>‘Korter is beter’, lijkt dé regel voor subjectlines. Is er in 
+e-mailmarketing dan een verband tussen het aantal karakters van het 
+onderwerp en de open-rate? Verschillende studies trekken dat in twijfel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e169a02e3111c81f53cbb468a61e71a227f06595.jpg"></article>]]></description>
+            <link>undefinedde-ideale-lengte-voor-e-mail-onderwerpregels-bestaat-niet/index.html</link>
+            <guid isPermaLink="false">29c38bde-5934-4787-8326-dec6638472d9</guid>
+            <pubDate>Sun, 24 Jan 2016 08:13:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
